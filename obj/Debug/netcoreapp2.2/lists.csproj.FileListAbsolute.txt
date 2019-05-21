@@ -1,0 +1,11 @@
+C:\Users\milliyon\workspace\backend\csharp\lists\bin\Debug\netcoreapp2.2\lists.deps.json
+C:\Users\milliyon\workspace\backend\csharp\lists\bin\Debug\netcoreapp2.2\lists.runtimeconfig.json
+C:\Users\milliyon\workspace\backend\csharp\lists\bin\Debug\netcoreapp2.2\lists.runtimeconfig.dev.json
+C:\Users\milliyon\workspace\backend\csharp\lists\bin\Debug\netcoreapp2.2\lists.dll
+C:\Users\milliyon\workspace\backend\csharp\lists\bin\Debug\netcoreapp2.2\lists.pdb
+C:\Users\milliyon\workspace\backend\csharp\lists\obj\Debug\netcoreapp2.2\lists.csprojAssemblyReference.cache
+C:\Users\milliyon\workspace\backend\csharp\lists\obj\Debug\netcoreapp2.2\lists.csproj.CoreCompileInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\lists\obj\Debug\netcoreapp2.2\lists.AssemblyInfoInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\lists\obj\Debug\netcoreapp2.2\lists.AssemblyInfo.cs
+C:\Users\milliyon\workspace\backend\csharp\lists\obj\Debug\netcoreapp2.2\lists.dll
+C:\Users\milliyon\workspace\backend\csharp\lists\obj\Debug\netcoreapp2.2\lists.pdb
